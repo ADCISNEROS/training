@@ -1,33 +1,33 @@
-# -*- coding: utf-o -*-
+# -*- coding: utf-8 -*-
 
 {
-    "name": "Odoo Academy",
+    'name': 'Odoo Academy',
     
-    "summary": """Academy app to manage Training""",
+    'summary': """Academy app to manage Training""",
     
-    "description": """
+    'description': """
         Academy Module to manage Training:
         - Courses
         - Sessions
         - Attendees
     """,
     
-    "author": "Odoo",
+    'author': 'Odoo',
     
-    "website": "https://www.odoo.com",
+    'website': 'https://www.odoo.com',
     
-    "category": "Training",
+    'category': 'Training',
     
-    "version": "0.1",
+    'version': '0.1',
     
-    "depends": ["base"],
+    'depends': ['base'],
     
-    "data": [
+    'data': [
         
         
     ],
     
-    "demo": [
+    'demo': [
         
         
     ],
